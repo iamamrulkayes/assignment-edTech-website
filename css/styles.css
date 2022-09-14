@@ -55,3 +55,18 @@
     margin-bottom: 50px;
     display: block;
 }
+
+.featurette {
+    background-color: #F4FAFD;
+}
+
+#carouselExampleControls {
+    position: relative;
+}
+
+#slide-arrow-1 {
+    position: absolute;
+    right: 10px;
+}
+
+#slide-arrow-2 {}
